@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">soaq task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">arabic</string>
+
+
+
+    //strings ar
+    <string name="full_name">الاسم باكامل</string>
+    <string name="pass">الرقم السري</string>
+    <string name="code">كود</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="choose_country">البلد</string>
+    <string name="choose_city">المدينة</string>
+    <string name="by_clicking">By clicking register you agree to</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+
+
+</resources>
