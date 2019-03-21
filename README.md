@@ -2,10 +2,9 @@
 
 
 
+![1](https://user-images.githubusercontent.com/41558289/54733890-ecbc6480-4ba4-11e9-8518-282002dc1b43.png)
 
-![1](https://user-images.githubusercontent.com/41558289/54733890-ecbc6480-4ba4-11e9-8518-282002dc1b43.png =25x25)
-
-![2](https://user-images.githubusercontent.com/41558289/54733891-ed54fb00-4ba4-11e9-837a-e55c7e788eea.png&s=200)
+![2](https://user-images.githubusercontent.com/41558289/54733891-ed54fb00-4ba4-11e9-837a-e55c7e788eea.png)
 
 ![3](https://user-images.githubusercontent.com/41558289/54733892-ed54fb00-4ba4-11e9-9b30-6f1b86294c2d.png)
 
